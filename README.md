@@ -2,9 +2,9 @@
 
 ## 📌 Overview
 
-The **Research Paper Vetting System** is an NLP-driven pipeline designed to **automatically evaluate scientific papers before the peer review stage**. The system analyzes research papers across multiple dimensions—such as citation support, argument quality, headline accuracy, readability, and reviewer concerns—and generates a **structured vetting report**.
+The Research Paper Vetting System is an NLP-driven pipeline designed as part of CS 273: Topics in NLP at San José State University (SJSU) to automatically evaluate scientific papers before the peer review stage. The system analyzes research papers across multiple dimensions—such as citation support, argument quality, headline accuracy, readability, and reviewer concerns—and generates a structured vetting report.
 
-This project uses a **hybrid approach combining multiple machine learning models and rule-based scoring**, enabling both statistical learning and logical reasoning for comprehensive evaluation.
+This project uses a hybrid approach combining multiple machine learning models and rule-based scoring, enabling both statistical learning and logical reasoning for comprehensive evaluation.
 
 ---
 
